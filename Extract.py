@@ -1,6 +1,5 @@
 import re
 import sys
-from urlparse import urlparse
 
 def readText(txtpath):
     fp = open(txtpath,'r')
